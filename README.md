@@ -1,0 +1,4 @@
+The client was THe Gaming Room, and they hada a game called draw it or lose it that they wanted to turn into a multi-platform game. This document was very helpful to focus on the task at hand and organizing all the considerations 
+to be taken into consideration for the client to and others charged with designing the game if any. If I could choose one part to improve it would maybe that I could've expressed the design constraints a bit more per different platforms
+instead of being to general with it. I looked at the needs that where listed in the request and I kept my research specific to the requests and what all it would take to accomplish a game designed like that. 
+I spent more time documenting the design in the most clear way possible with some time updating a given code for the games functionality. 
